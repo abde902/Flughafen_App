@@ -1,0 +1,11 @@
+release/booking.o
+release/customer.o
+release/flightbooking.o
+release/hotelbooking.o
+release/main.o
+release/mainwindow.o
+release/rentalcarreservation.o
+release/travel.o
+release/travelagency.o
+release/travelagencyui.o
+release/moc_travelagencyui.o
